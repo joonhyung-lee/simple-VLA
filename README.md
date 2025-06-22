@@ -10,3 +10,10 @@ Reproducible and easy-to-use Vision-Language-Action (VLA) baselines.
 - [ ] **Training**: Implement training procedures for VLA models using the collected demonstrations.
 
 - [ ] **Deploy**: Deploy the trained models for evaluation and real-world testing.
+
+---
+
+## Acknowledgement
+
+Most of the code is based on [yet-another-mujoco-tutorial-v3](https://github.com/sjchoi86/yet-another-mujoco-tutorial-v3) by [sjchoi86](https://github.com/sjchoi86).
+
